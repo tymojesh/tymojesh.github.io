@@ -1,5 +1,4 @@
 # tymojesh.github.io
-First disease.<br>
 This patient has three serious illnesses. Because of what he suffers.<br>
 The first disease is cancer.<br>
 The operation was performed more than 2 years ago. Removed two malignant tumors. But they can arise again at any time.<br>
